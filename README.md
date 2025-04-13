@@ -7,6 +7,8 @@ It uses the metadata from Spotify and matches to YouTube audio, then downloads.
 It's download from youtube by taking data from Spotify cause almost all songs are available on Spotify is available on YouTube too
 
 
-Requires **spotdl**
+Required:
 
 ```pip install spotdl```
+
+```pip install ffmpeg```
