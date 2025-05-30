@@ -12,3 +12,5 @@ Required:
 ```pip install spotdl```
 
 ```pip install ffmpeg```
+
+Status: Working ``[ 30 May | 2026 ]``
